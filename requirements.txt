@@ -3,3 +3,4 @@ gunicorn
 whitenoise
 psycopg2-binary
 requests==2.31.0 
+dj-database-url
